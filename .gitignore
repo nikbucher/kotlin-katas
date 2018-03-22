@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.editorconfig
+/out
+/build
+*.iml
