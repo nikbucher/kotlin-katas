@@ -1,0 +1,5 @@
+# kotlin katas
+
+image:https://travis-ci.org/nikbucher/kotlin-katas.svg?branch=master["Build Status", link="https://travis-ci.org/nikbucher/kotlin-katas"]
+
+This repo contains some katas I do or did in Kotlin.
