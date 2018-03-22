@@ -1,6 +1,7 @@
 .*
 !.gitignore
 !.editorconfig
+!.travis.yml
 /out
 /build
 *.iml

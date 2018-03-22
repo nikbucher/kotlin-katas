@@ -19,3 +19,7 @@ charset = latin1
 
 [*.{json,yml}]
 indent_size = 2
+
+# Markdown files sometimes need trailing whitespaces.
+[*.md]
+trim_trailing_whitespace = false
